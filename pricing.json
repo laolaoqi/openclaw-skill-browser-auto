@@ -1,0 +1,12 @@
+{
+  "name": "Browser Automation Skill Pack",
+  "price": 29,
+  "currency": "USD",
+  "tier": "Tier 1",
+  "type": "skill-pack",
+  "target_audience": [
+    "Developers",
+    "QA engineers",
+    "operations teams"
+  ]
+}
