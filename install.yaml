@@ -1,0 +1,6 @@
+tools:
+  profile: coding
+plugins:
+  entries:
+    browser:
+      enabled: true
